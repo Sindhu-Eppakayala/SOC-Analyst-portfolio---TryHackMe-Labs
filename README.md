@@ -18,9 +18,9 @@
 📚 Labs Completed (TryHackMe SOC Level 1)
 | # | Room Name | Date | Status | Link |
 |---|-----------|------|--------|------|
-| 1 | Junior Security Analyst Intro | June 2026 | ✅ Complete | [PDF](./lab-writeups/01-junior-security-analyst-intro.pdf) |
-| 2 | SOC Role in Blue Team | June 9, 2026 | ✅ Complete | [PDF](./lab-writeups/02-soc-role-in-blue-team.pdf) |
-| 3 | Defensive Security Intro | June 2026 | ✅ Complete | [PDF](./lab-writeups/03-defensive-security-intro.pdf) |
+| 1 | Junior Security Analyst Intro | June 2026 | ✅ Complete | [PDF](Junior_security_analyst_intro.docx) |
+| 2 | SOC Role in Blue Team | June 9, 2026 | ✅ Complete | [PDF](SOC_Role_in_blue_team.docx) |
+| 3 | Defensive Security Intro | June 2026 | ✅ Complete | [PDF](Defensive_security_intro.docx) |
 
 📈 Progress Tracker
 - **Total Labs Completed:** 3/100
