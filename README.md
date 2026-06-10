@@ -36,14 +36,14 @@
 - TryHackMe SOC Level 1 (In Progress)
 
 🔗 Other Resources
-- **Theory Notes:** [cyber-crime repository](https://github.com/yourusername/cyber-crime) ← My cybersecurity book notes
+- **Theory Notes:** https://github.com/Sindhu-Eppakayala/Cyber-crime ← My cybersecurity book notes
 - **LinkedIn:** linkedin.com/in/sindhu-eppakayala-927572328
-- **GitHub:** [this repository]
+- **GitHub:** (https://github.com/Sindhu-Eppakayala/SOC-Analyst-portfolio---TryHackMe-Labs)
 
 📬 Contact
 - **Email:** eppakayala.sindhu@gmail.com
 - **LinkedIn:** linkedin.com/in/sindhu-eppakayala-927572328
-- **GitHub:** [this repository URL]
+- **GitHub:** https://github.com/Sindhu-Eppakayala/SOC-Analyst-portfolio---TryHackMe-Labs
 
 
 **Author:** Sindhu Eppakayala  
