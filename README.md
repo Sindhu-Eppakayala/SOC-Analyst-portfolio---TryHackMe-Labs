@@ -18,15 +18,16 @@
 📚 Labs Completed (TryHackMe SOC Level 1)
 | # | Room Name | Date | Status | Link |
 |---|-----------|------|--------|------|
-| 1 | Junior Security Analyst Intro | June 2026 | ✅ Complete | [PDF](Junior_security_analyst_intro.docx) |
+| 1 | Junior Security Analyst Intro | June 9, 2026 | ✅ Complete | [PDF](Junior_security_analyst_intro.docx) |
 | 2 | SOC Role in Blue Team | June 9, 2026 | ✅ Complete | [PDF](SOC_Role_in_blue_team.docx) |
-| 3 | Defensive Security Intro | June 2026 | ✅ Complete | [PDF](Defensive_security_intro.docx) |
+| 3 | Defensive Security Intro | June 9, 2026 | ✅ Complete | [PDF](Defensive_security_intro.docx) |
+| 4 | Introdction to SIEM | June 13, 2026 | ✅ Complete | [PDF](Introduction_to_SIEM.docx) |
 
 📈 Progress Tracker
-- **Total Labs Completed:** 3/100
-- **Total Hours Practiced:** 3+ hours
+- **Total Labs Completed:** 4/100
+- **Total Hours Practiced:** 4+ hours
 - **Target:** SOC Level 1 Certified by December 2026
-- **Next Lab:** Introduction to SIEM
+- **Next Lab:** Introduction to EDR
 
 📁 Portfolio Structure
 - **/lab-writeups** → Detailed lab reports with screenshots
@@ -47,4 +48,4 @@
 
 
 **Author:** Sindhu Eppakayala  
-**Last Updated:** June 10, 2026
+**Last Updated:** June 13, 2026
